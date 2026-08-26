@@ -1,34 +1,34 @@
-\# CSC 441 - \[Avery Merchant]
+# CSC 441 - [Avery Merchant]
 
 
 
-\## About me
+## About me
 
-\- \*\*Major:\*\* Computer Science
+- **Major:** Computer Science
 
-\- \*\*Minor:\*\* Applied Statistics
+- **Minor:** Applied Statistics
 
-\- \*\*Year:\*\* Senior
+- **Year:** Senior
 
-\- \*\*What I want to build:\*\* Websites
-
-
-
-\## What I'm hoping to learn this semester
+- **What I want to build:** Websites
 
 
 
-\## My setup
-
-\- \*\*Computer:\*\* Windows 
-
-\- \*\*GitHub username:\*\* avemerchant
-
-\- \*\*Git installed:\*\* yes
+## What I'm hoping to learn this semester
 
 
 
-\## Notes to future me
+## My setup
+
+- **Computer:** Windows 
+
+- **GitHub username:** avemerchant
+
+- **Git installed:** yes
+
+
+
+## Notes to future me
 
 Things I got stuck on, so I don't get stuck again:
 
