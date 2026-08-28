@@ -29,6 +29,7 @@ Things I got stuck on, so I don't get stuck again:
 
 * When I uploaded my README, it did not render. I had to edit the text and get rid of all of the "/" that were in the text
 * I was editing the wrong README file, not the file in my csc441-averymerchant folder
+* I edited my README on GitHub and then had to merge it for it to properly update all of my changes.
 
 
 
