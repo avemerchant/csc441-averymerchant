@@ -31,7 +31,7 @@ Things I got stuck on, so I don't get stuck again:
 
 
 
-\## Terminal commands I learned
+## Terminal commands I learned
 
 * pwd
 * cd
