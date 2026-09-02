@@ -40,3 +40,11 @@ Things I got stuck on, so I don't get stuck again:
 * ls
 * mkdir
 
+
+
+## My goals for this course
+
+* Learn how to use Git
+* Learn how to utilize the terminal more
+* Building my GitHub
+
