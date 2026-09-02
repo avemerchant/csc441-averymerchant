@@ -42,7 +42,7 @@ Things I got stuck on, so I don't get stuck again:
 
 
 
-\## My goals for this course
+## My goals for this course
 
 * Learn how to use Git
 * Learn how to utilize the terminal more
