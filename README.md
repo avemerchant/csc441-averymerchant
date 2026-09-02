@@ -50,10 +50,10 @@ Things I got stuck on, so I don't get stuck again:
 
 
 
-\## Tools I have installed
+## Tools I have installed
 
-* \[X] Git
-* \[] IntelliJ IDEA Community Edition
-* \[] Android Studio
-* \[] VS Code
+* [X] Git
+* [] IntelliJ IDEA Community Edition
+* [] Android Studio
+* [] VS Code
 
