@@ -48,3 +48,12 @@ Things I got stuck on, so I don't get stuck again:
 * Learn how to utilize the terminal more
 * Building my GitHub
 
+
+
+\## Tools I have installed
+
+* \[X] Git
+* \[] IntelliJ IDEA Community Edition
+* \[] Android Studio
+* \[] VS Code
+
