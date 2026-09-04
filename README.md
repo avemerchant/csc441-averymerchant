@@ -61,5 +61,5 @@ Things I got stuck on, so I don't get stuck again:
 
 \## Status
 
-Just getting started.
+Learning Git and feeling good about it.
 
