@@ -59,5 +59,5 @@ Things I got stuck on, so I don't get stuck again:
 
 
 
-\## Status
+## Status
 Learning Git. Branches make sense now; merge conflicts are next. 
