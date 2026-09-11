@@ -21,8 +21,8 @@ fun main() {
         println(item)
     }
 
-    for ((index, item) in packingList.withIndex()) {
-        println("$index: $item")
+    packingList.forEachIndexed {
+        index, item -> println("$index is $item")
     }
 
     println("---Step 5 - A for With until---")
