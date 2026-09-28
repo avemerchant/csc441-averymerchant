@@ -53,8 +53,8 @@ Things I got stuck on, so I don't get stuck again:
 ## Tools I have installed
 
 * \[X] Git
-* \[] IntelliJ IDEA Community Edition
-* \[] Android Studio
+* \[X] IntelliJ IDEA Community Edition
+* \[X] Android Studio
 * \[] VS Code
 
 
